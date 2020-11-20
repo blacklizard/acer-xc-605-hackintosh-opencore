@@ -1,6 +1,6 @@
 # Hackintosh Opencore 0.6.3 for ACER XC-605 - macOS(>=11.0.1) 
 
-![System Info](images/system_big_sur_11_0_1.png)
+![System Info](images/system_big_sur_11_0_1_1605896404.png)
 
 ### This guide is not intended for beginner, you have been warned. No support is provided unless there is a valid issue. Please read everything before starting
 
