@@ -10,7 +10,7 @@ ACER XC-605
 
 Type|Item
 :----|:----
-**CPU** | i5 4440
+**CPU** | i5 4460
 **Memory** | 10GB
 **Storage** | KINGSTON UV400 128GB
 **GPU** | HD 4600
