@@ -17,6 +17,8 @@ Download OpenCore **RELEASE** from [here](https://github.com/acidanthera/OpenCor
 - [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases/latest)
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases/latest)
 - [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases/latest)
+- [AirportBrcmFixup.kext](https://github.com/acidanthera/AirportBrcmFixup/releases/latest)
+- [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases/latest)
 - [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases/latest)
 - USBPorts.kext - Use included in this repo
 
@@ -46,7 +48,11 @@ EFI
     │   ├── HFSPlus.efi
     │   └── OpenRuntime.efi
     ├── Kexts
+    │   ├── AirportBrcmFixup.kext
     │   ├── AppleALC.kext
+    │   ├── BrcmBluetoothInjector.kext
+    │   ├── BrcmFirmwareData.kext
+    │   ├── BrcmPatchRAM3.kext
     │   ├── Lilu.kext
     │   ├── RealtekRTL8111.kext
     │   ├── USBPorts.kext

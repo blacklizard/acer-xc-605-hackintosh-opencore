@@ -14,6 +14,7 @@ Type|Item
 **Memory** | 10GB
 **Storage** | KINGSTON UV400 128GB
 **GPU** | HD 4600
+**WiFi+BT** | DW1550
 
 ### Prerequisite 
 Please understand all OpenCore configuration by reading [Configuration.pdf](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf) 
@@ -28,3 +29,24 @@ Please understand all OpenCore configuration by reading [Configuration.pdf](http
 2. [macOS installation media](INSTALLER.md)
 3. [OpenCore EFI](OC.md)
 4. [Post Installation](POST_INSTALL.md)
+
+
+##### Working
+- Ethernet
+- Onboard Audio
+- HDMI Audio
+- App Store
+- Wake/Sleep
+- Restart/Shutdown
+- USB (Correct SS/HS speed)
+- Apple Music (iTunes)
+- iServices
+- Continuity
+- WiFi+BT
+
+##### Not Tested
+- FileVault
+- Power Nap
+
+##### Not Working
+- DRM
